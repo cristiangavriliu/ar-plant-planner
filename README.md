@@ -17,7 +17,7 @@ This project was developed as part of a **Group Project** for the **Human-Comput
 
 <video controls src="README_IMG/V1.mp4" title="Title"></video>
 
-[![Watch the Demo](README_IMG/thumbnail.png)](INSERT_VIDEO_LINK_HERE)
+[![Watch the Demo](README_IMG/S1.png)](README_IMG/V1.mp4)
 
 ## Research Context
 
