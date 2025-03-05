@@ -15,7 +15,7 @@ This project was developed as part of a **Group Project** for the **Human-Comput
 
 ## Demo Video
 
-<video controls src="V1.mp4" title="Title"></video>
+<video controls src="README_IMG/V1.mp4" title="Title"></video>
 
 [![Watch the Demo](README_IMG/thumbnail.png)](INSERT_VIDEO_LINK_HERE)
 
@@ -60,7 +60,7 @@ This project was developed to **explore the impact of AR on citizen participatio
 
 ### Cloning the Repository
 ```bash
-git clone <repository-link>
+git clone <https://github.com/cristiangavriliu/ar-plant-planner.git>
 cd <repository-directory>
 ```
 
