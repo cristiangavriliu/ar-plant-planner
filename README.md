@@ -47,8 +47,7 @@ This project was developed to **explore the impact of AR on citizen participatio
 - **JSON Serialization** – Used for saving and exporting greenery drafts.
 
 ### Platforms
-- **Android** – Primary platform for the AR experience.
-- **iOS (Planned Future Expansion)** – Compatibility under development.
+- **Android** and **iOS** build capabilities 
 
 ## Setup & Installation
 
@@ -75,6 +74,15 @@ cd <repository-directory>
 3. Select **Android** as the target platform and click **Switch Platform**.
 4. Click **Build and Run**.
 
+### Running the Application on iOS
+1. **Build for iOS in Unity** : In **Unity**, go to **File > Build Settings**, select **iOS**, and click **Build** to generate an Xcode project.
+
+2. **Open in Xcode**: Open the generated project in **Xcode**, connect your **iPhone/iPad**, and select your device.
+
+3. **Run on iOS Device**: Ensure a valid Apple Developer account is set under **Signing & Capabilities**, then click **Run (⌘R)** to install and launch the app.
+
+
+
 ## Data Management
 - **Saving Drafts**: Users can save their **greenery space drafts** as **JSON files**.
 - **Exporting Drafts**: JSON files can be shared for external review or further modifications.
@@ -93,7 +101,11 @@ cd <repository-directory>
 | Cristian Gavriliu | LMU, HCI M.Sc. |
 | Noah Ibers | LMU, HCI M.Sc. |
 
+## License
+
+This project is for **personal use only** and is intended as a reference point for the projects I have completed during my studies.
 ---
+
 
 For further details, refer to the **final project report and study results**.
 
