@@ -14,10 +14,9 @@ This project was developed as part of a **Group Project** for the **Human-Comput
 - **User-Friendly UI** – Simple and intuitive interface for users with no professional background in urban planning.
 
 ## Demo Video
-
-<video controls src="README_IMG/V1.mp4" title="Title"></video>
-
-[![Watch the Demo](README_IMG/S1.png)](README_IMG/V1.mp4)
+<a href="README_IMG/V1.mp4">
+  <img src="README_IMG/S1.png" alt="Watch the Demo" width="300">
+</a>
 
 ## Research Context
 
